@@ -1,2 +1,16 @@
 # dotfiles_2021
-My Dotfiles
+
+![](./img/spectrwm.png
+)
+
+![](./img/neovim.png
+)
+
+# Gallery 
+
+## System 
+<details><summary>Fish Shell</summary>
+<p>
+  <img src="img/fishprompt.png"
+</p>
+</details>
